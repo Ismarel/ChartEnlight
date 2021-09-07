@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'ChartEnlight/Classes/**/*'
+  ss.source_files  = "Source/Charts/**/*.swift"
   
   # s.resource_bundles = {
   #   'ChartEnlight' => ['ChartEnlight/Assets/*.png']
